@@ -1,0 +1,2 @@
+# qelectrotech
+Electric schematic editor
